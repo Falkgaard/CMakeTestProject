@@ -1,0 +1,2 @@
+# CMakeTestProject
+Just for testing.
